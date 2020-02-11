@@ -1,0 +1,11 @@
+section img{
+    float: right;
+    max-width: 100%;
+}
+div img{
+    max-width: 100%;
+}
+article img{
+    float: left;
+    max-width: 100%;
+}
